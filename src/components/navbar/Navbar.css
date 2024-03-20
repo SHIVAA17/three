@@ -1,0 +1,9 @@
+.logo {
+  width: 76px;
+  height: 42.75px;
+  flex-shrink: 0;
+}
+
+.options{
+    display: flex;
+}
